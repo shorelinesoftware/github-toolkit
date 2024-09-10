@@ -20,12 +20,12 @@
     "@actions/core": "1.8.2",
     "@actions/github": "5.0.3",
     "axios": "0.27.2",
-    "semver": "7.3.7"
+    "semver": "7.6.3"
   },
   "devDependencies": {
     "@types/jest": "27.5.1",
     "@types/node": "17.0.33",
-    "@types/semver": "7.3.9",
+    "@types/semver": "7.5.8",
     "@typescript-eslint/parser": "5.23.0",
     "@vercel/ncc": "0.33.4",
     "axios-mock-adapter": "1.20.0",
