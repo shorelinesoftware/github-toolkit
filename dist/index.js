@@ -20599,7 +20599,7 @@ class JiraRequestError extends Error {
 
 ;// CONCATENATED MODULE: ./lib/jira/utils.js
 function buildJiraUrl(orgUrl, path) {
-    return `${orgUrl.origin}/rest/api/3${path}`;
+    return `${orgUrl.origin}/rest/api/2${path}`;
 }
 
 ;// CONCATENATED MODULE: ./lib/jira/JiraClient.js
